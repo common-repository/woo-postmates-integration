@@ -1,0 +1,9 @@
+{
+    "require": {
+        "aglipanci/postmates-api": "^1.0.7",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "files": ["includes/api/class-postmates-api.php"]
+    }
+}
